@@ -1,0 +1,3 @@
+- download Tiled Map Editor: https://thorbjorn.itch.io/tiled
+- use the "bubbleneer exportable tileset" in the tilesets folder
+- save maps to maps folder
