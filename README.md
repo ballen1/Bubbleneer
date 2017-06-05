@@ -1,5 +1,7 @@
 # Bubbleneer
 
+## Play the game [HERE](https://ballen1.github.io/Bubbleneer/).
+
 This is a fork of the main (and private) repository. This repository does not contain any of the assets required to import the game into Unity. The purpose of this repository is primarily to demonstrate the code base.
 
 ### Credits
